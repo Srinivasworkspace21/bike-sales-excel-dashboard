@@ -69,10 +69,9 @@ not proof of cause. For example, owning more cars does not by itself
 explain why someone did not buy a bike.
 
 ## How to use
-Open `bike_sales_dashboard.xlsx` in Excel and go to the Dashboard sheet.
+Open `Excel Project Dataset - Copy.xlsx` in Excel and go to the Dashboard sheet.
 Click any slicer option to filter all charts. Use the Clear Filter icon
 on each slicer to reset.
 
-- `bike_sales_dashboard.xlsx`: final workbook (data, pivot tables, dashboard)
-- 
+- `Excel Project Dataset - Copy.xlsx`: final workbook (data, pivot tables, dashboard)
 - `README.md`: project description
